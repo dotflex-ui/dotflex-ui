@@ -1,0 +1,38 @@
+{
+    "hero": {
+        "heading": {
+            "title": "DOTFLEX.UI welcomes you!"
+        },
+        "button": {
+            "buttonText": "Get Started",
+            "href": "/services",
+            "variant": "primary"
+        }
+    },
+    "features": {
+        "title": "Our Features",
+        "items": [
+            {
+                "title": "Fast",
+                "description": "Optimized performance."
+            },
+            {
+                "title": "Secure",
+                "description": "Modern security practices."
+            },
+            {
+                "title": "Scalable",
+                "description": "Easy to maintain."
+            }
+        ]
+    },
+    "about": {
+        "title": "About Us",
+        "description": "This page demonstrates loading component data from a single JSON file."
+    },
+    "contact": {
+        "title": "Contact",
+        "email": "hello@example.com",
+        "phone": "+91 9876543210"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "title": "Our Services",
+    "subtitle": "We provide modern web and security solutions."
+  },
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "Next.js, React, and scalable frontend architecture."
+    },
+    {
+      "title": "API Development",
+      "description": "Secure REST APIs and backend integrations."
+    },
+    {
+      "title": "Security Testing",
+      "description": "VAPT, API security, and cloud security assessments."
+    }
+  ],
+  "cta": {
+    "title": "Need a custom solution?",
+    "buttonText": "Contact Us"
+  }
+}
